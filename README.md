@@ -34,7 +34,7 @@ Instructions:
 
 4. Modify this file to include an image demonstrating that your testcases are passing on github actions.
 
-5. Upload the url to your completed repo to sakai.
+5. Upload the url to your completed repo to Canvas.
 
 <!--
 VERY IMPORTANT:
